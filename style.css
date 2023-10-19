@@ -29,8 +29,17 @@ main {
     padding-inline: 1.5rem;
 }
 
+.Descricao {
+    margin-bottom: 2.5rem;
+}
+
 .Descricao h1 {
     color: var(--gray-800);
     margin-bottom: 1rem;
     font-size: 1.5625rem;
+}
+
+.Descricao p {
+    font-size:  0.125rem;
+    color: var(--gray-600);
 }
